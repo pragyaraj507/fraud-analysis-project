@@ -39,10 +39,10 @@ Full detail on all 14 findings is in `fraud_analytics_findings.docx`. The SQL be
 
 ```
 fraud-analytics-project/
-├── sql/                       # 13 queries, each documented with what it answers and why
-├── fraud_analysis.ipynb       # EDA, feature engineering, model training and evaluation
-├── fraud_analytics_findings.docx   # Full writeup of all findings
+├── sql/                       - 13 queries, each documented with what it answers and why
+├── fraud_analysis.ipynb       - EDA, feature engineering, model training and evaluation
+├── fraud_analytics_findings.docx   - Full writeup of all findings
 └── README.md
 ```
 
-Note: the raw data file and local database (`data/`) are not included in this repo due to file size. See Setup above.
+Note: the raw data file and local database (`data/`) are not included in this repo due to file size. 
